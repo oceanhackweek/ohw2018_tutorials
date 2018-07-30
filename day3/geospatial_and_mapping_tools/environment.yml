@@ -1,0 +1,26 @@
+name: mapping
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - conda-forge::numpy
+  - basemap
+  - bokeh
+  - cartopy
+  - earthsim
+  - fiona
+  - folium
+  - geopandas
+  - geoviews
+  - gridgeo
+  - ipyleaflet
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - matplotlib
+  - palettable
+  - rasterio
+  - rise
+  - shapely
+  - xarray
+  - xlrd
