@@ -10,3 +10,4 @@ dependencies:
   - seaborn
   - dask
   - matplotlib 
+  - dask-ml
