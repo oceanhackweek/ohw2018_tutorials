@@ -14,5 +14,4 @@ dependencies:
   - cmocean
   - obspy
   - av
-  - pip:
-    - pycamhd
+  - pycamhd
