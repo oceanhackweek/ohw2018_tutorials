@@ -13,5 +13,6 @@ dependencies:
   - bokeh
   - cmocean
   - obspy
+  - av
   - pip:
     - pycamhd
