@@ -1,10 +1,9 @@
 name: mapping
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.6
-  - conda-forge::numpy
+  - numpy
   - basemap
   - bokeh
   - cartopy
@@ -17,7 +16,6 @@ dependencies:
   - ipyleaflet
   - jupyter
   - jupyter_contrib_nbextensions
-  - matplotlib
   - palettable
   - rasterio
   - rise
