@@ -1,10 +1,9 @@
 name: ioosaccess
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.6
-  - conda-forge::numpy
+  - numpy
   - bokeh
   - cartopy
   - erddapy
