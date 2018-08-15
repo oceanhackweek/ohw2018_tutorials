@@ -1,8 +1,8 @@
 name: ooi-test
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - python=3.6
   - matplotlib
   - requests
   - xarray
@@ -13,5 +13,5 @@ dependencies:
   - bokeh
   - cmocean
   - obspy
-  - av
-  - pycamhd
+  - pip:
+    - pycamhd
