@@ -14,5 +14,3 @@ dependencies:
   - keras==2.2.2 
   - tensorboard==1.9.0
   - tensorflow==1.9.0
-  - graphviz
-  - pydot
