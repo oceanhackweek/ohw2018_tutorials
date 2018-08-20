@@ -1,5 +1,5 @@
 // Don't use the standard CSS import mechanism so that we can easily support directories of notebooks.
-$('head').append('<link rel="stylesheet" href="https://raw.githubusercontent.com/oceanhackweek/ohw2018_tutorials/master/day1/data_sharing_collaborations/static/theme/rise.css" type="text/css" />');
+$('head').append('<link rel="stylesheet" href="static/theme/rise.css" type="text/css" />');
 
 header = `
 <a href="https://oceanhackweek.github.io">
