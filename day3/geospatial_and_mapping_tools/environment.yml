@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - python=3.6
-  - numpy
   - basemap
   - bokeh
   - cartopy
@@ -13,9 +12,11 @@ dependencies:
   - geopandas
   - geoviews
   - gridgeo
+  - hvplot
   - ipyleaflet
   - jupyter
   - jupyter_contrib_nbextensions
+  - numpy
   - palettable
   - rasterio
   - rise
