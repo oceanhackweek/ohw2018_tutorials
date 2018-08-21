@@ -3,11 +3,11 @@ $('head').append('<link rel="stylesheet" href="static/theme/rise.css" type="text
 
 header = `
 <a href="https://oceanhackweek.github.io">
-    <img src="/files/static/theme/OHW.png" style="height: 4.5rem;" />
+    <img src="static/theme/OHW.png" style="height: 4.5rem;" />
     OceanHackWeek
 </a>
 <div style="float: right;">
-    <img src="/files/static/theme/logo.jpg" style="height: 3.8rem;">
+    <img src="static/theme/logo.jpg" style="height: 3.8rem;">
     Mapping tutorial | OHW 2018
 </div>
 `;
