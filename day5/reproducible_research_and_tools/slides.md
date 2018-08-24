@@ -73,7 +73,9 @@ How to properly document all that so others can reproduce the simulation?
 
 . . .
 
-Write your answers on the [etherpad <i class="far fa-edit"></i>](https://etherpad.wikimedia.org/) and comment on the barriers, if any, you encountered? 
+Write your answers on the [etherpad <i class="far fa-edit"></i>](https://etherpad.wikimedia.org/p/ohw-discussion) and comment on the barriers, if any, you encountered?
+
+[https://etherpad.wikimedia.org/p/ohw-discussion](https://etherpad.wikimedia.org/p/ohw-discussion)
 
 . . .
 
@@ -118,6 +120,15 @@ In research, experiments/results are not trusted unless:
 So why would scientific software be any different?
 
 
+# Clear code is paramount
+
+![](images/code_quality_2.png)
+
+# As is good practices for the scientific env creation
+
+![](images/universal_install_script.png)
+
+
 # Introducing:
 
 The **code** *test-document-publish* cookie cutter!
@@ -138,15 +149,6 @@ The **code** *test-document-publish* cookie cutter!
 <i class="fas fa-cookie"></i> [https://github.com/lsetiawan/rppc](https://github.com/lsetiawan/rppc)</br>
 <i class="fab fa-github"></i> [GitHub account](https://github.com)</br>
 <img src="images/TravisCI-Mascot-grey.svg" width="48" style="background-color:transparent"> [Travis-CI account](https://travis-ci.org)</br>
-
-
-# Clear code is paramount
-
-![](images/code_quality_2.png)
-
-# As is good practices for the scientific env creation
-
-![](images/universal_install_script.png)
 
 
 # For the hack session
